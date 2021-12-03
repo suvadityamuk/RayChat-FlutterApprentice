@@ -47,6 +47,7 @@ app.*.map.json
 **/android/gradlew.bat
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
+google-services.json
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
